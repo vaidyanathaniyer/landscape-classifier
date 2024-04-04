@@ -1,15 +1,5 @@
 # Landscape Classifier 🌿🛰️
 
-## Table of Contents
-- [Problem Statement](#problem-statement) 🎯
-- [Project Goals](#project-goals) 🌟
-- [Project Objectives and Scope](#project-objectives-and-scope) 🔍
-- [Working of the Model](#working-of-the-model) 💻
-- [Resources Used](#resources-used) 📚
-- [Action of Completion](#action-of-completion) ✅
-- [Potential Limitations and Stay Back](#potential-limitations-and-stay-back) ⚠️
-- [Summary](#summary) 📝
-
 ## Problem Statement
 Implementation of a Machine Learning Model for Landscape Classification.
 
